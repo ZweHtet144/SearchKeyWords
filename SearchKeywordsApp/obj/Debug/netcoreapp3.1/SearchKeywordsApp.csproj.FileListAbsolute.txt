@@ -1,0 +1,14 @@
+D:\MyProjects\IBase CodeTest\SearchKeywordsApp\SearchKeywordsApp\bin\Debug\netcoreapp3.1\SearchKeywordsApp.exe
+D:\MyProjects\IBase CodeTest\SearchKeywordsApp\SearchKeywordsApp\bin\Debug\netcoreapp3.1\SearchKeywordsApp.deps.json
+D:\MyProjects\IBase CodeTest\SearchKeywordsApp\SearchKeywordsApp\bin\Debug\netcoreapp3.1\SearchKeywordsApp.runtimeconfig.json
+D:\MyProjects\IBase CodeTest\SearchKeywordsApp\SearchKeywordsApp\bin\Debug\netcoreapp3.1\SearchKeywordsApp.runtimeconfig.dev.json
+D:\MyProjects\IBase CodeTest\SearchKeywordsApp\SearchKeywordsApp\bin\Debug\netcoreapp3.1\SearchKeywordsApp.dll
+D:\MyProjects\IBase CodeTest\SearchKeywordsApp\SearchKeywordsApp\bin\Debug\netcoreapp3.1\SearchKeywordsApp.pdb
+D:\MyProjects\IBase CodeTest\SearchKeywordsApp\SearchKeywordsApp\obj\Debug\netcoreapp3.1\SearchKeywordsApp.csproj.AssemblyReference.cache
+D:\MyProjects\IBase CodeTest\SearchKeywordsApp\SearchKeywordsApp\obj\Debug\netcoreapp3.1\SearchKeywordsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\IBase CodeTest\SearchKeywordsApp\SearchKeywordsApp\obj\Debug\netcoreapp3.1\SearchKeywordsApp.AssemblyInfoInputs.cache
+D:\MyProjects\IBase CodeTest\SearchKeywordsApp\SearchKeywordsApp\obj\Debug\netcoreapp3.1\SearchKeywordsApp.AssemblyInfo.cs
+D:\MyProjects\IBase CodeTest\SearchKeywordsApp\SearchKeywordsApp\obj\Debug\netcoreapp3.1\SearchKeywordsApp.csproj.CoreCompileInputs.cache
+D:\MyProjects\IBase CodeTest\SearchKeywordsApp\SearchKeywordsApp\obj\Debug\netcoreapp3.1\SearchKeywordsApp.dll
+D:\MyProjects\IBase CodeTest\SearchKeywordsApp\SearchKeywordsApp\obj\Debug\netcoreapp3.1\SearchKeywordsApp.pdb
+D:\MyProjects\IBase CodeTest\SearchKeywordsApp\SearchKeywordsApp\obj\Debug\netcoreapp3.1\SearchKeywordsApp.genruntimeconfig.cache
